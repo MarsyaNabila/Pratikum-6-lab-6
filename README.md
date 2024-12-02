@@ -16,7 +16,7 @@ d = lambda s: "".join(set(s))
 print("lambda a(5):", a(5))
 print("lambda b(3, 4):", b(3, 4))
 print("lambda c(1, 2, 3, 4, 5):", c(1, 2, 3, 4, 5))
-print("lambda d('hello Naufal'):", d("Naufal"))
+print("lambda d('hello Marsya'):", d("Marsya"))
 ````
 
 CODE PROGRAM TERSEBUT: 
