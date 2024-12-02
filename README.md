@@ -20,8 +20,11 @@ print("lambda d('hello Marsya'):", d("Marsya"))
 ````
 
 CODE PROGRAM TERSEBUT: 
+![code](https://github.com/user-attachments/assets/53cb5edb-8d70-44de-9098-b2179b39b581)
 
 Hasil Program Tersebut:
+![Screenshot 2024-12-02 093144](https://github.com/user-attachments/assets/98fa1e7c-0de6-4c92-8904-9a1aa900613e)
+
 
 # TUGAS PRATIKUM:
 ![WhatsApp Image 2024-12-02 at 08 47 53_ece78cdf](https://github.com/user-attachments/assets/60708911-eaad-42d4-9686-37508e82bd9e)
@@ -232,9 +235,15 @@ else:
 Jika pengguna tidak memasukan angka `1-5` maka program akan menampilkan pesan `pilihan tidak valid`.dan kembali menampilkan menu.
 
 Code Program Tersebut:
+![code](https://github.com/user-attachments/assets/bc91dc15-b4cd-4733-bd25-01b3b116800d)
+
 
 Hasil Dari Program Tersebut:
+![Screenshot 2024-12-02 100912](https://github.com/user-attachments/assets/344dbbdc-eb2a-4894-8734-f923bd753881)
+
 
 DAN INI FLOWCHARTNYA:
+![flowchart](https://github.com/user-attachments/assets/8ad61a17-0cce-4dda-9629-902ab59d5a18)
+
 
 
