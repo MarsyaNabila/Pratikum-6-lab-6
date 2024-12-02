@@ -1,0 +1,1 @@
+# Pratikum-6-lab-6
