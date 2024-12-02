@@ -164,7 +164,7 @@ Mengubah nilai mahasiswa berdasarkan yang di masukan, memeriksa apakah nama maha
 daftar_mahasiswa = {}
 ````
 
-`daftar_mahasiswa` adalah dictionary kosong yang akan digunakan untuk menyimpan `data_mahasiswa`
+`daftar_mahasiswa` adalah dictionary kosong yang akan digunakan untuk menyimpan `data_mahasiswa`, dengan nama sebagai kunci dan nilai sebagai nilai.
 
 ```python
 if _name_ == "_main_":
@@ -194,7 +194,7 @@ Program mencetak menu dengan lima opsi yang dapat dipilih penggguna:
 pilihan = input("Pilih menu (1-5): ")
 ````
 
-Program meminta pengguna untuk memasukan salah satu menu
+Program meminta `input` pengguna untuk memilih salah satu menu (1-5).
 
 ```python
 if pilihan == '1':
